@@ -1,0 +1,12 @@
+2020-04-16 19:54:26,705 - __main__ - INFO - s3api.py:checkAccessToBucket - You have access to the bucket : ven-norm-bucket
+2020-04-16 19:54:53,554 - __main__ - INFO - s3api.py:readObjFromS3 - ['test.csv']
+2020-04-16 19:54:53,876 - __main__ - INFO - s3api.py:readObjFromS3 - test.csv object contents retrieved from s3
+2020-04-16 19:58:10,146 - __main__ - INFO - s3api.py:readObjFromS3 - ['rf.pkl']
+2020-04-16 19:58:10,408 - __main__ - INFO - s3api.py:readObjFromS3 - rf.pkl object contents retrieved from s3
+2020-04-16 19:59:07,281 - __main__ - INFO - s3api.py:checkAccessToBucket - You have access to the bucket : ven-norm-bucket
+2020-04-16 19:59:17,602 - __main__ - INFO - s3api.py:readObjFromS3 - ['train.csv']
+2020-04-16 19:59:18,272 - __main__ - INFO - s3api.py:readObjFromS3 - train.csv object contents retrieved from s3
+2020-04-16 20:01:28,201 - __main__ - INFO - s3api.py:readObjFromS3 - ['rf.pkl']
+2020-04-16 20:01:28,460 - __main__ - INFO - s3api.py:readObjFromS3 - rf.pkl object contents retrieved from s3
+2020-04-16 20:01:53,646 - __main__ - INFO - s3api.py:readObjFromS3 - ['rf.pkl']
+2020-04-16 20:01:53,948 - __main__ - INFO - s3api.py:readObjFromS3 - rf.pkl object contents retrieved from s3
